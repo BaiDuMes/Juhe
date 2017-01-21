@@ -1,0 +1,247 @@
+
+
+@media only screen and (max-width: 760px){
+	.banner-img{
+		height:750px;
+	}
+	.ban1-font img{
+		padding-top: 0px;
+		width:80%;
+		margin-left:10%;
+	}
+	.login-wrap{
+		margin-top: 100px;
+	}
+	.login-box{
+		margin-top: 20px;
+		width:80%;
+		margin-left:10%;
+		height:389px;
+		background: url('../images/login-bg.png') center no-repeat;
+		background-size:100% 100%;
+	}
+	.some-why{
+		margin-top: 30px;
+		padding-bottom: 30px;
+	}
+	.whys{
+		border:none;
+	}
+	.power-warp{
+		text-align: center;
+	}
+	.footer{
+		padding-top: 10px;
+		line-height: 30px;
+	}
+	.jhtd2{
+		width:100%;
+		height:180px;
+		padding-top: 30px;
+	}
+	.jhtd2-1{
+		height:280px;
+	}
+	.jhtd2-1-1{
+		height:200px;
+	}
+	.jhtd2-tit{
+		font-size: 24px;
+		width:240px;
+		height:40px;
+		margin:0 auto;
+		border:solid 1px #3eb7f2;
+		line-height: 40px;
+		text-align: center;
+		color: #3eb7f2;
+		letter-spacing:3px;
+	}
+	.ymlr-tit{
+		width:300px;
+		font-size: 24px;
+		letter-spacing:3px;
+	}
+	.box{
+		width:100%;
+	}
+	.h50-1{
+		height:30px;
+	}
+	.ydzf-bg{
+		height:300px;
+		background-size: 70%;
+	}
+	.ydzf-bg{
+		background: none;
+	}
+	.pay-kind-unit{
+		height:140px;
+	}
+	.pay-kind-unit div{
+		height:50px;
+	}
+	.ydjh-bg{
+		margin-top: 20px;
+	}
+	.support{
+		padding-top: 10px;
+	}
+	.jhtd-icons{
+		margin-left: 8.33333333%;
+	}
+	.jhtd-quan{
+		height:auto;
+		background:none;
+	}
+	.jhtd-quan1{
+		padding-top: 20px;
+	}
+	.jhtd-quan2{
+		margin-top: 20px;
+	}
+	.jhtd-icons-1{
+		height:60px;
+	}
+	.jhtd-icons-1 img{
+		height:70px;
+	}
+	.jhtd-quan3{
+		margin-top: 20px;
+	}
+	.pc-dn{
+		text-align: center;
+	}
+	.pc-dn img{
+		width:90%;
+	}
+	.pc-text{
+		text-indent: 20%;
+		padding-top: 0;
+	}
+	.jhtd2-1-1{
+		margin-bottom:20px; 
+	}
+	.h120{
+		height:120px;
+	}
+	.support{
+		text-indent: 20%;
+		margin-bottom: 20px;
+	}
+}
+
+/* --------- Styles for Screen width between 768px To 1023px -------- */
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+	/* Features */
+	.baraja-container {
+		width: 180px;
+		height: 275px;
+	}
+
+	.single-feature .feature-icon i {
+		font-size: 70px;
+	}
+
+	.single-feature .feature-title {
+		font-size: 18px;
+		line-height: 24px;
+		margin-bottom: 0;
+	}
+
+	.single-feature .feature-text {
+		display:none;
+	}
+
+	.pc-dn{
+		text-align: center;
+	}
+	.pc-dn img{
+		width:90%;
+	}
+	.pc-text{
+		text-indent: 20%;
+		padding-top: 0;
+	}
+	.jhtd2-1-1{
+		margin-bottom:20px; 
+	}
+	.h120{
+		height:120px;
+	}
+	.support{
+		text-indent: 20%;
+		margin-bottom: 20px;
+	}
+
+}
+
+/* --------- Styles for Screen width Smaller than 767px -------- */
+@media only screen and (max-width: 767px) {
+
+	/* features */
+	.container.features {
+		padding-bottom: 120px;
+	}
+	
+	.baraja-container {
+		width: 180px;
+		height: 250px;
+	}
+
+	.imgheight{
+		height:130px;
+		overflow: hidden;
+	}
+	.single-feature .feature-title {
+		font-size: 14px;
+		line-height: 20px;
+		padding: 0 5px;
+		margin-bottom: 0;
+	}
+	.feature-title span{
+		margin-top: 5px;
+	}
+
+
+	.nav-tabs li{
+		width:100%;
+		margin-bottom: 10px;
+	}
+	.nav-tabs li a{
+		padding: 15px;
+	}
+	.nav-tabs li.active a,
+	.nav-tabs li.active a:focus,
+	.nav-tabs li.active a:hover{
+		padding: 15px;
+		margin-top: 0;
+	}
+
+}
+
+
+/* --------- Styles for Screen width Smaller than 480px -------- */
+@media only screen and (max-width: 480px) {
+
+	#section-feature {
+		padding-top: 140px;
+		padding-bottom: 40px;
+	}
+	
+	.features-control {
+		float: left;
+		height: 160px;
+		width: 42px;
+		bottom: 340px;
+	}
+
+	.features-control .control-icon {
+		position: relative!important;
+		left: 2px !important;
+		float: left;
+		margin-bottom: 8px;
+		padding:10px 12px;
+	}
+}
+
+
